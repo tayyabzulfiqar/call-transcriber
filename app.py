@@ -1,3 +1,5 @@
+import pandas as pd
+from io import BytesIO
 # === app.py ===
 # Streamlit Bulk Call Transcriber & Analyzer (Deepgram)
 # ----------------------------------------------------
